@@ -1,2 +1,3 @@
-# starpattern
+# star pattern
+
 all star pattern with python loops
