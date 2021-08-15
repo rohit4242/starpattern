@@ -1,25 +1,4 @@
 # star pattern
 
-all star pattern with python loops
+## all star pattern using python 
 
-##star pattern
-
-          *           
-        * *           
-      * * *        
-    * * * *       
-  * * * * *        
-* * * * * *               
-
-
-* 
-* * 
-* * * 
-* * * * 
-* * * * *
-
-    *   
-   * * 
-  * * * 
- * * * * 
-* * * * * 
