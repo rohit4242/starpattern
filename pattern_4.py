@@ -10,6 +10,8 @@
 
 '''
 
+# Printing Downward left-half - Pyramid
+
 n = int(input('Enter the your row: '))
 for row in range(n, 0, -1):
     for col in range(0, n-row):
